@@ -1,4 +1,4 @@
-## spark_scala
+# spark_scala
 
 #Overview of the assignment
 
